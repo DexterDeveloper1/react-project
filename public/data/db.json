@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "7a93",
+      "name": "Kettle",
+      "sku": "TSH-XLK-Q",
+      "category": "Home appliances",
+      "quantity": 100,
+      "price": 50
+    },
+    {
+      "id": "0cc4",
+      "name": "Phone case",
+      "sku": "BSH-ACK-C",
+      "category": "Computer and electronics",
+      "quantity": 50,
+      "price": 20
+    },
+    {
+      "id": "fecc",
+      "name": "Canoe",
+      "sku": "SRH-BLK-L",
+      "category": "Wood works",
+      "quantity": 2,
+      "price": 50
+    }
+  ]
+}
